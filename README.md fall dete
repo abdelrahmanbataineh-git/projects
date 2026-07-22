@@ -1,0 +1,15 @@
+🔍 Project Goal:
+Falls are the 2nd leading cause of unintentional injury deaths globally, especially affecting the elderly. Our team (Obada Sultan ,Ahmad Al Habab,ادم فريحات) designed an ML solution to detect falls in real-time using wearable sensors, enabling faster emergency response.
+
+⚙ Tech Stack:
+Sensors: Accelerometer & gyroscope data
+Model: Random Forest classifier
+Dataset: 11,771 samples from the Unimib-SHAR Kaggle dataset
+Tools: Python, Scikit-learn, SMOTE for class balancing
+
+📊 Results:
+Achieved 98% accuracy in fall detection with near-perfect recall for "fall" events! Our model minimizes false alarms while ensuring critical falls trigger immediate alerts.
+
+Huge thanks to Dr. Tamam Alsarhan for her expert guidance, and to my brilliant teammate for an incredible collaboration!
+
+This project reinforced the power of AI in solving real-world healthcare challenges. I’m eager to explore more applications of ML in medical technology!
